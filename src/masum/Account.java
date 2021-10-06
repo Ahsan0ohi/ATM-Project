@@ -66,14 +66,9 @@ public class Account {
         return checkingBalance;
     }
 
-    /* claculate saving account deposit */
+ 
 
-    public double calcSavingDeposit(double amount) {
-        savingBalance = (savingBalance + amount);
-        return savingBalance;
-    }
-
-
+    
 
 
 }
